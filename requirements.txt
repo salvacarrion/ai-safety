@@ -1,0 +1,17 @@
+# ML stack
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Deep learning
+tensorflow
+#albumentations
+
+# Others
+cython
+tqdm
