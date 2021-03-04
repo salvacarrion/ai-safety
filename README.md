@@ -13,3 +13,10 @@ Quantifiying the reliability of a AI/ML system
 ```
 pip install -r requirements.txt
 ```
+
+## Run
+
+```
+cd safety/
+python main.py
+```
