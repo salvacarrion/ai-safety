@@ -1,6 +1,6 @@
 # AI Safety
 
-Quantifiying the reliability of a AI/ML system
+Quantifying the reliability of an AI/ML system
 
 
 ## Pre-requisites
